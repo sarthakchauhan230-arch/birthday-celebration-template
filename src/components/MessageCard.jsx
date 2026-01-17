@@ -13,19 +13,22 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `[Chetan Jiju Ji],
 
-Your personalized birthday message goes here.
+A very happy birthday to my handsome, loving, funny, caring.. jijuuuu
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+Ham aapke birthday ke liye kya hi likhe... sabse pyara gift toh aapke paas already hai.. hehe 
+ye chota sa bday gift meri taraf se, happy birthday to you...
+jaldi jaldi aao london se.. uno, cards, bahaar ghumna if ho.. sab karenge khub sara
+baaki ab ham chote bhai hai aapke hehe.. aapko aise kaise na tang kare ( masti masti )
+once again HAPPY BIRTHDAY JIJUUU JII....
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+Thankyou for being such a great addition to our family and for always taking the best care my aalsi shivani didi hehe in all situations everywhere ,
+I hope your day is filled with everything you love. Have a fantastic 18th of january- you deserve the best year ahead !
 
 Happy Birthday! 🎉
 
-— [Your Name]`;
+— [SARTHAK]`;
 
   // Handle page transitions
   useEffect(() => {
